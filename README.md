@@ -10,5 +10,6 @@
 <!-- - ⚡ Fun fact: ...
  -->
 
-You can also visit my website to learn more!
-[<img alt="alt_text" width="40px" src="webPage,jpg.png" />](https://kaisenye.github.io/)
+You can also visit my website to learn more! <br />
+<br />
+[<img alt="alt_text" width="700px" target="blank" src="webPage,jpg.png" />](https://kaisenye.github.io/)
