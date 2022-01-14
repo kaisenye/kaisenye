@@ -11,4 +11,4 @@
  -->
 
 You can also visit my website to learn more!
-[<img alt="alt_text" width="40px" src="images/image.PNG" />](https://www.google.com/)
+[<img alt="alt_text" width="40px" src="webPage,jpg.png" />](https://kaisenye.github.io/)
