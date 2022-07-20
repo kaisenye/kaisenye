@@ -1,6 +1,6 @@
 ### Howdy, my name is Kaisen Ye 👋
 
-- 🔭 I’m currently working on a community discussion mobile app for Indiana University
+- 🔭 I’m currently working at PayPal as a Data Science Intern
 - 🌱 I’m currently learning Machine Learning Classification tasks and tools like scikit-learn, Tensorflow, Keras..
 <!-- - 👯 I’m looking to collaborate on ... -->
 - 💬 Ask me about anything! 
