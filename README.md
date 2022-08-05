@@ -1,11 +1,12 @@
 ### Howdy, my name is Kaisen Ye 👋
 
 
-<!-- - 👯 I’m looking to collaborate on ... -->
 - 💬 Ask me about anything! 
+- 🏫 Education: Indiana University at Bloomington
+- 📚 Majors: Applied Mathematics, Information Systems
 - LinkedIn: https://www.linkedin.com/in/kaisenye/
 - Email: kaisenye20@gmail.com
-- 😄 Pronouns: He/Him
+- Pronouns: He/Him
  
 ## What I'm working on?
 - PayPal as a Data Science Intern
