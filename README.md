@@ -9,7 +9,7 @@
 - Pronouns: He/Him
  
 ## What I'm working on?
-- PayPal as a Data Science Intern
+- PayPal as a Software Engineer Intern
 - A new trading robot on US Index Funds
 - Sharpening my C++, Python, Data Analysis, Machine Learning skills
 
