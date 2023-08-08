@@ -2,20 +2,19 @@
 
 
 - 💬 Ask me about anything! 
-- 🏫 Education: Indiana University at Bloomington
-- 📚 Majors: Applied Mathematics, Information Systems
+- 🏫 Education: University of Southern California
+- 📚 Majors: Electrical and Computer Engineering - Machine Learning
 - LinkedIn: https://www.linkedin.com/in/kaisenye/
 - Email: kaisenye20@gmail.com
 - Pronouns: He/Him
  
 ## What I'm working on?
-- PayPal as a Software Engineer Intern
-- A new trading robot on US Index Funds
-- Sharpening my C++, Python, Data Analysis, Machine Learning skills
+- ECE-ML @USC
+- Sharpening my web development and machine learning skills
 
 ## Skills
 - Languages: Proficient: Python, C++, SQL; Prior Experience: C#, Java, JavaScript, HTML/CSS
-- Frameworks: Angular, Bootstrap, Flutter, React, Spring/Spring Boot, Node.js, TensorFlow
+- Frameworks: Angular, Bootstrap, Flutter, React, Node.js, TensorFlow
 - Databases: AWS, BigQuery, Firebase, MongoDB, MySQL
 - Developer Tools: Android Studio, Git, GitHub, Jupyter, PyCharm, Visual Studio, Jira, Confluence
 
