@@ -24,4 +24,5 @@
 ## Stay in touch!
 Visit my website to learn more! <br />
 <br />
-[<img alt="alt_text" width="700px" target="blank" src="webPage,jpg.png" />](https://kaisenye.github.io/)
+[<img width="1177" alt="webpage" src="https://github.com/kaisenye/kaisenye/assets/75810017/3639a488-4d0e-4313-824e-3d1ca0e94ee1">](https://kaisenye.github.io/)
+
