@@ -19,7 +19,10 @@
 - Developer Tools: Android Studio, Git, GitHub, Jupyter, PyCharm, Visual Studio, Jira, Confluence
 
 ## What I'm learning?
-- React.js, Network Security, Scripting, OS & Virtual Machines
+- Image Processing
+- Deep Learning
+- Generative AI
+
 
 ## Stay in touch!
 Visit my website to learn more! <br />
