@@ -7,9 +7,8 @@
 - Pronouns: He/Him
 
 ## What I'm working on?
-- Residential Parking Tech -> [fluoai](https://www.fluoai.com/)
-- Image Processing Research
-- Sharpening web development and machine learning skills
+- Building AI agent for home-based care industry
+- Sharpening web development, RAG, agentic AI, and machine learning skills
 
 ## Skills
 - Languages: Proficient: Python, C++, SQL; Prior Experience: C#, Java, JavaScript
