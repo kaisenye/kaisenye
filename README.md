@@ -23,7 +23,7 @@
 
 ## Stay in touch!
 - [LinkedIn](https://www.linkedin.com/in/kaisenye/)
-- [Personal Website](https://kaisenye.github.io/)
+- [Website](https://kaisenye.github.io/)
 - Email: kaisenye20@gmail.com
 
 
