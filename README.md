@@ -1,13 +1,11 @@
-### Howdy, my name is Kaisen Ye 👋
+### howdy, my name is kaisen.
 
-
-- 💬 Ask me about anything! 
-- 🏫 Education: University of Southern California
-- 📚 Majors: Electrical and Computer Engineering - Machine Learning
+- 🏫 Education: USC, IU
+- 📚 Majors: Mathematics, Computer Engineering
 - Pronouns: He/Him
 
-## What I'm working on?
-- Building AI agent for home-based care industry
+## what i'm working on
+- AI tools for tax accountant
 - Sharpening web development, RAG, agentic AI, and machine learning skills
 
 ## Skills
@@ -15,11 +13,6 @@
 - Stacks: React, React.js, Node.js, Express.js, TensorFlow, PyTorch, OpenCV
 - DB: AWS, GCP, MongoDB, MySQL
 - Tools: Git, GitHub, Jupyter, Visual Studio, Jira, CircleCI
-
-## What I'm learning?
-- Image Processing
-- Deep Learning
-- Generative AI
 
 ## Stay in touch!
 - [LinkedIn](https://www.linkedin.com/in/kaisenye/)
