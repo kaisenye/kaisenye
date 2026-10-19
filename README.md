@@ -1,4 +1,4 @@
-### howdy, my name is kaisen.
+### howdy, kaisen here
 
 - 🏫 Education: USC, IU
 - 📚 Majors: Math, Computer Engineer
