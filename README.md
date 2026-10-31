@@ -1,17 +1,15 @@
-### howdy, kaisen here
+## howdy, kaisen here
+softwares are cool- let's connect!
 
-- 🏫 Education: USC, IU
-- 📚 Majors: Math, Computer Engineer
+## what i've been working on
+- [sovo](https://www.sovomail.xyz/): superhuman alike email cient for IMAP/SMTP
+- [romo](https://www.tryromo.com/): mac local ai dictation
+- sharpening rag, llm orchestration, and tracing/eval frameworks
 
-## what i've been working on.
-- Supermail: Superhuman alike email cient for IMAP/SMTP
-- Romo: Mac local AI dictation
-- Sharpening RAG, LLM orchestration, and tracing/eval frameworks
-
-## stay in touch.
-- [linkedIn](https://www.linkedin.com/in/kaisenye/)
-- [website](https://kaisenye.github.io/)
-- email: kaisenye20@gmail.com
+## let's talk
+- in. [/kaisenye](https://www.linkedin.com/in/kaisenye/)
+- w. [kaisenye.github.io](https://kaisenye.github.io/)
+- m. kaisenye20@gmail.com
 
 
 
